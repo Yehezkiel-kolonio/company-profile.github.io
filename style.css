@@ -37,3 +37,7 @@
 .embed-responsive-item {
     width: 100%;
 }
+
+.email {
+    margin-top: -10px;
+}
