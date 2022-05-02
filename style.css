@@ -41,3 +41,15 @@
 .email {
     margin-top: -10px;
 }
+
+.b-example-divider {
+    height: 3rem;
+    background-color: black;
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    margin-top: 15px;
+}
+
+.bi {
+    vertical-align: -.125em;
+}
