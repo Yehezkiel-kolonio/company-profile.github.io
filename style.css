@@ -25,10 +25,15 @@
 
 #about,
 #news,
-#gallery {
+#gallery,
+#contact {
     color: black;
 }
 
 .section {
     padding-top: 5rem;
+}
+
+.embed-responsive-item {
+    width: 100%;
 }
